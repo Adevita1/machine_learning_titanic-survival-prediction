@@ -1,15 +1,13 @@
-# titanic-survival-prediction
-🚢🔍 Titanic Survival Prediction: Machine Learning Data Preprocessing Project. This project preprocesses the Titanic dataset to prepare it for machine learning models, aiming to predict passenger survival based on various features.
-
 Titanic Survival Prediction 🚢🔍
 Description
-English: This project preprocesses the Titanic dataset to prepare it for machine learning models, aiming to predict passenger survival based on various features.
+English:
+This project preprocesses the Titanic dataset to prepare it for machine learning models, aiming to predict passenger survival based on various features.
 
-Español: Este proyecto preprocesa el conjunto de datos del Titanic para prepararlo para modelos de machine learning, con el objetivo de predecir la supervivencia de los pasajeros en función de varias características.
+Español:
+Este proyecto preprocesa el conjunto de datos del Titanic para prepararlo para modelos de machine learning, con el objetivo de predecir la supervivencia de los pasajeros en función de varias características.
 
 Conclusion
 English:
-
 Hello everyone! 😃
 
 I have completed an interesting data preprocessing exercise using the famous Titanic dataset. 🎉 The objective was to prepare this data for use in machine learning models that can predict whether a person could have survived the sinking of the Titanic. 🚢
@@ -41,3 +39,16 @@ I will upload the project to a GitHub repository so everyone can access and revi
 Repository Name: titanic-survival-prediction
 Repository Description: 🚢🔍 Titanic Survival Prediction: Machine Learning Data Preprocessing Project. This project preprocesses the Titanic dataset to prepare it for machine learning models, aiming to predict passenger survival based on various features.
 I hope this project is useful and educational for everyone interested in data preprocessing and machine learning. Thank you for your attention! 🙌
+
+Project Details
+Titanic Survival Prediction
+This project uses Machine Learning techniques to predict the survival of Titanic passengers based on their characteristics. A logistic regression model is implemented and its accuracy is evaluated.
+
+Project Files
+train.csv: Training dataset containing information about the passengers and whether they survived.
+test.csv: Test dataset containing information about the passengers without the survival label.
+titanic_predictions.csv: Output file with survival predictions for the test dataset.
+Requirements
+Python 3.7+
+Pandas
+Scikit-learn (pip install pandas scikit-learn)
